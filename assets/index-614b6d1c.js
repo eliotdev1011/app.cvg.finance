@@ -13801,7 +13801,7 @@ iu.defaultProps = {
   loadingIcon: "pi pi-spinner pi-spin",
   visible: !0,
 };
-const ese = "/assets/logo-85fe4d97.svg",
+const ese = "/assets/headlogo.svg",
   gs = {
     dashboard: { label: "Dashboard", href: "/" },
     stakeCvg: { label: "CVG", href: "/stake/cvg" },
@@ -74611,11 +74611,11 @@ const awe = "/assets/twitter-47eed4a6.svg",
   uwe = "/assets/doc-89b2fb60.svg",
   cwe = [
     {
-      name: "@Convergence_fi",
-      href: "https://twitter.com/Convergence_fi",
+      name: "@ConvergenFi",
+      href: "https://twitter.com/ConvergenFi",
       logo: awe,
     },
-    { name: "medium", href: "https://medium.com/cvgfinance", logo: lwe },
+    { name: "medium", href: "https://medium.com/@ConverFi", logo: lwe },
     {
       name: "documentation",
       href: "https://docs.cvg.finance/general-information/protocol-overview",
