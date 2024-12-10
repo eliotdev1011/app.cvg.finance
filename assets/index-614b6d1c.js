@@ -74618,7 +74618,7 @@ const awe = "/assets/twitter-47eed4a6.svg",
     { name: "medium", href: "https://medium.com/@ConverFi", logo: lwe },
     {
       name: "documentation",
-      href: "https://docs.cvg.finance/general-information/protocol-overview",
+      href: "https://ifrices-organization.gitbook.io/convergence/",
       logo: uwe,
     },
   ];
